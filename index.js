@@ -10,7 +10,7 @@ fs.readFile(dataFile, function(err, data) {
     if (err) throw err;
 
     colleges = JSON.parse(data);
-})
+});
 
 const app = express();
 

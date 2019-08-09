@@ -41,7 +41,7 @@ app.get('/colleges', function (req, res) {
     const tuition = _.get(collegeData, 'tuitionInState', 0);
     const housing = _.get(collegeData, 'roomAndBoard', 0);
 
-    res.send(`\$${(roomAndBoard) ? tuition + housing : tuition}.00`);
+    res.send(`${(roomAndBoard) ? tuition + housing : tuition}.00`);
 });
 
 const server = app.listen(3000, function () {

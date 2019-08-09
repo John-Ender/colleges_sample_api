@@ -16,6 +16,7 @@ functionality will be added if time allows.
 ## Enhancements
 
  - [ ] Refactor routes from index.js to routes directory using Express Router
+ - [ ] Postman Test suite
  - [ ] Error handling middleware
  - [ ] Stub out CRUD operations on colleges route
  - [ ] Convert routes Async / Await

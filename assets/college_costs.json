@@ -1724,11 +1724,6 @@
     "tuitionOutOfState": 25345,
     "roomAndBoard": 14003
   },
-  0: {
-    "tuitionInState": 0,
-    "tuitionOutOfState": 0,
-    "roomAndBoard": 0
-  },
   "SUNY Cobleskill": {
     "tuitionInState": 8465,
     "tuitionOutOfState": 18501,

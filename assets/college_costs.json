@@ -1,0 +1,2447 @@
+{
+  "Adelphi University": {
+    "tuitionInState": 38657,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15527
+  },
+  "Agnes Scott†College": {
+    "tuitionInState": 54007,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12449
+  },
+  "Albany College of Pharmacy": {
+    "tuitionInState": 34154,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11274
+  },
+  "Albertus Magnus College": {
+    "tuitionInState": 32386,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13520
+  },
+  "Alfred University": {
+    "tuitionInState": 32525,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12763
+  },
+  "Allegheny College": {
+    "tuitionInState": 44169,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11617
+  },
+  "American International College": {
+    "tuitionInState": 35680,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14100
+  },
+  "American University": {
+    "tuitionInState": 48187,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16100
+  },
+  "Amherst College": {
+    "tuitionInState": 70260,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 0
+  },
+  "Andrews University": {
+    "tuitionInState": 29573,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 8713
+  },
+  "Anna Maria College": {
+    "tuitionInState": 37860,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14230
+  },
+  "Arcadia University": {
+    "tuitionInState": 42557,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14040
+  },
+  "Arizona State University": {
+    "tuitionInState": 11224,
+    "tuitionOutOfState": 28467,
+    "roomAndBoard": 11841
+  },
+  "Assumption College": {
+    "tuitionInState": 40958,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12293
+  },
+  "Auburn University": {
+    "tuitionInState": 11407,
+    "tuitionOutOfState": 30826,
+    "roomAndBoard": 13865
+  },
+  "Ave Maria University": {
+    "tuitionInState": 20769,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11300
+  },
+  "Babson College": {
+    "tuitionInState": 51104,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16312
+  },
+  "Bard College": {
+    "tuitionInState": 54680,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15488
+  },
+  "Barnard College": {
+    "tuitionInState": 52917,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16744
+  },
+  "Barry University": {
+    "tuitionInState": 29952,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11024
+  },
+  "Barton College": {
+    "tuitionInState": 31198,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10250
+  },
+  "Bates College": {
+    "tuitionInState": 54000,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15000
+  },
+  "Bay Path University": {
+    "tuitionInState": 34899,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13311
+  },
+  "Baylor University": {
+    "tuitionInState": 42842,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13560
+  },
+  "Becker College": {
+    "tuitionInState": 39475,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13800
+  },
+  "Belmont University": {
+    "tuitionInState": 34133,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11336
+  },
+  "Bennington College": {
+    "tuitionInState": 53997,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15642
+  },
+  "Bentley University": {
+    "tuitionInState": 49880,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16340
+  },
+  "Berklee College of Music": {
+    "tuitionInState": 44460,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 18907
+  },
+  "Bethel University": {
+    "tuitionInState": 37658,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10754
+  },
+  "Biola University": {
+    "tuitionInState": 39986,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10648
+  },
+  "Bluffton University": {
+    "tuitionInState": 32939,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10903
+  },
+  "Boston College": {
+    "tuitionInState": 56001,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14142
+  },
+  "Boston University": {
+    "tuitionInState": 53948,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15720
+  },
+  "Bowdoin College": {
+    "tuitionInState": 53922,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14697
+  },
+  "Brandeis University": {
+    "tuitionInState": 55040,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15142
+  },
+  "Bridgewater State University": {
+    "tuitionInState": 10568,
+    "tuitionOutOfState": 16954,
+    "roomAndBoard": 13069
+  },
+  "Brigham Young University": {
+    "tuitionInState": 11357,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 8296
+  },
+  "Brown University": {
+    "tuitionInState": 55556,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14670
+  },
+  "Bryant University": {
+    "tuitionInState": 43973,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15702
+  },
+  "Bryn Mawr College": {
+    "tuitionInState": 53180,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16500
+  },
+  "Bucknell University": {
+    "tuitionInState": 56145,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13676
+  },
+  "Butler University": {
+    "tuitionInState": 41454,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13551
+  },
+  "California Institute of Arts": {
+    "tuitionInState": 49276,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 17000
+  },
+  "California Polytechnic State University San Luis Obispo": {
+    "tuitionInState": 9809,
+    "tuitionOutOfState": 22164,
+    "roomAndBoard": 13641
+  },
+  "Calvin College": {
+    "tuitionInState": 34424,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10390
+  },
+  "Carnegie Mellon University": {
+    "tuitionInState": 55765,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14335
+  },
+  "Case Western Reserve University": {
+    "tuitionInState": 49400,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15375
+  },
+  "Castleton State College": {
+    "tuitionInState": 12449,
+    "tuitionOutOfState": 28862,
+    "roomAndBoard": 10702
+  },
+  "Catholic University of America": {
+    "tuitionInState": 45804,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14650
+  },
+  "Cedarville University": {
+    "tuitionInState": 30322,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 7372
+  },
+  "Central Connecticut State University": {
+    "tuitionInState": 10591,
+    "tuitionOutOfState": 23789,
+    "roomAndBoard": 12913
+  },
+  "Centre College": {
+    "tuitionInState": 52707,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 0
+  },
+  "Champlain College": {
+    "tuitionInState": 41411,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15502
+  },
+  "Chapman University": {
+    "tuitionInState": 52472,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 5207
+  },
+  "Claremont McKenna College": {
+    "tuitionInState": 54692,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16869
+  },
+  "Clark Atlanta University": {
+    "tuitionInState": 22768,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 8776
+  },
+  "Clark University": {
+    "tuitionInState": 46176,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9843
+  },
+  "Clarkson University": {
+    "tuitionInState": 49444,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15222
+  },
+  "Clemson University": {
+    "tuitionInState": 0,
+    "tuitionOutOfState": 36058,
+    "roomAndBoard": 9595
+  },
+  "Coastal Carolina University": {
+    "tuitionInState": 11648,
+    "tuitionOutOfState": 26907,
+    "roomAndBoard": 9506
+  },
+  "Colby College": {
+    "tuitionInState": 69451,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 0
+  },
+  "Colby-Sawyer College": {
+    "tuitionInState": 42398,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14264
+  },
+  "Colgate University": {
+    "tuitionInState": 56139,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14061
+  },
+  "College of Charleston": {
+    "tuitionInState": 12478,
+    "tuitionOutOfState": 31601,
+    "roomAndBoard": 11845
+  },
+  "College of Mount Saint Vincent": {
+    "tuitionInState": 38584,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9880
+  },
+  "College of New Jersey": {
+    "tuitionInState": 16794,
+    "tuitionOutOfState": 28680,
+    "roomAndBoard": 13728
+  },
+  "College of New Rochelle": {
+    "tuitionInState": 38083,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14701
+  },
+  "College of Saint Rose": {
+    "tuitionInState": 32920,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12850
+  },
+  "College of the Atlantic": {
+    "tuitionInState": 45284,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10137
+  },
+  "College of the Holy Cross": {
+    "tuitionInState": 52770,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14520
+  },
+  "College of William and Mary": {
+    "tuitionInState": 22926,
+    "tuitionOutOfState": 45417,
+    "roomAndBoard": 12271
+  },
+  "College of Wooster": {
+    "tuitionInState": 50544,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11856
+  },
+  "Colorado College": {
+    "tuitionInState": 54931,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12559
+  },
+  "Colorado School of Mines": {
+    "tuitionInState": 19745,
+    "tuitionOutOfState": 38933,
+    "roomAndBoard": 12373
+  },
+  "Colorado State University": {
+    "tuitionInState": 12097,
+    "tuitionOutOfState": 30306,
+    "roomAndBoard": 12696
+  },
+  "Columbia College (Chicago)": {
+    "tuitionInState": 26603,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13368
+  },
+  "Columbia University": {
+    "tuitionInState": 56684,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14754
+  },
+  "Concordia College New York": {
+    "tuitionInState": 32864,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12351
+  },
+  "Connecticut College": {
+    "tuitionInState": 70138,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 0
+  },
+  "Cornell College": {
+    "tuitionInState": 42526,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9474
+  },
+  "Cornell University": {
+    "tuitionInState": 36902,
+    "tuitionOutOfState": 54967,
+    "roomAndBoard": 14903
+  },
+  "Culinary Institute of America": {
+    "tuitionInState": 32880,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11305
+  },
+  "Curry College": {
+    "tuitionInState": 40140,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15324
+  },
+  "Dartmouth College": {
+    "tuitionInState": 55068,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15765
+  },
+  "Davidson College": {
+    "tuitionInState": 51947,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14512
+  },
+  "Dean College": {
+    "tuitionInState": 39614,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 17000
+  },
+  "Delaware State University": {
+    "tuitionInState": 7320,
+    "tuitionOutOfState": 17287,
+    "roomAndBoard": 11890
+  },
+  "Denison University": {
+    "tuitionInState": 51960,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12710
+  },
+  "DePaul University": {
+    "tuitionInState": 39946,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 17100
+  },
+  "DePauw University": {
+    "tuitionInState": 49752,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13116
+  },
+  "DeSales University": {
+    "tuitionInState": 37544,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13312
+  },
+  "Dickinson College": {
+    "tuitionInState": 54636,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13698
+  },
+  "Drew University": {
+    "tuitionInState": 48840,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13828
+  },
+  "Drexel University": {
+    "tuitionInState": 53279,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14079
+  },
+  "Duke University": {
+    "tuitionInState": 55894,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16120
+  },
+  "Duquesne University": {
+    "tuitionInState": 37850,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12599
+  },
+  "Earlham College": {
+    "tuitionInState": 47580,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10317
+  },
+  "East Carolina University": {
+    "tuitionInState": 7429,
+    "tuitionOutOfState": 24357,
+    "roomAndBoard": 10228
+  },
+  "Eastern Connecticut State University": {
+    "tuitionInState": 11356,
+    "tuitionOutOfState": 24552,
+    "roomAndBoard": 13530
+  },
+  "Eastern Nazarene College": {
+    "tuitionInState": 33051,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9707
+  },
+  "Eastern University": {
+    "tuitionInState": 33363,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11419
+  },
+  "Eastern Washington University": {
+    "tuitionInState": 7229,
+    "tuitionOutOfState": 24277,
+    "roomAndBoard": 11383
+  },
+  "Eckerd College": {
+    "tuitionInState": 44766,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12648
+  },
+  "Elmira College": {
+    "tuitionInState": 43576,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12480
+  },
+  "Elms College": {
+    "tuitionInState": 35788,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13108
+  },
+  "Elon University": {
+    "tuitionInState": 35644,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12344
+  },
+  "Embry Riddle Aeronautical University": {
+    "tuitionInState": 34461,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11544
+  },
+  "Emerson College": {
+    "tuitionInState": 46852,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 17690
+  },
+  "Emmanuel College": {
+    "tuitionInState": 39804,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14994
+  },
+  "Emory University": {
+    "tuitionInState": 51368,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14450
+  },
+  "Endicott College": {
+    "tuitionInState": 33050,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15276
+  },
+  "Fairfield University": {
+    "tuitionInState": 48650,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14710
+  },
+  "Fairleigh Dickinson University-Teaneck": {
+    "tuitionInState": 39955,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13609
+  },
+  "Fashion Institute of Technology": {
+    "tuitionInState": 7760,
+    "tuitionOutOfState": 21823,
+    "roomAndBoard": 14503
+  },
+  "Fisher College": {
+    "tuitionInState": 31771,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16919
+  },
+  "Fitchburg State University": {
+    "tuitionInState": 10580,
+    "tuitionOutOfState": 16903,
+    "roomAndBoard": 10962
+  },
+  "Florida Atlantic University": {
+    "tuitionInState": 5649,
+    "tuitionOutOfState": 20209,
+    "roomAndBoard": 12382
+  },
+  "Florida Gulf Coast University": {
+    "tuitionInState": 6363,
+    "tuitionOutOfState": 26167,
+    "roomAndBoard": 10059
+  },
+  "Florida Institute of Technology": {
+    "tuitionInState": 38376,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11523
+  },
+  "Florida Southern College": {
+    "tuitionInState": 36165,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11652
+  },
+  "Florida State University": {
+    "tuitionInState": 6777,
+    "tuitionOutOfState": 22550,
+    "roomAndBoard": 11043
+  },
+  "Fordham University": {
+    "tuitionInState": 52128,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16770
+  },
+  "Framingham State University": {
+    "tuitionInState": 10317,
+    "tuitionOutOfState": 16640,
+    "roomAndBoard": 12126
+  },
+  "Franciscan University of Steubenville": {
+    "tuitionInState": 27487,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 8736
+  },
+  "Franklin and Marshall College": {
+    "tuitionInState": 56451,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14132
+  },
+  "Franklin Pierce University": {
+    "tuitionInState": 36900,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13345
+  },
+  "Furman University": {
+    "tuitionInState": 0,
+    "tuitionOutOfState": 50282,
+    "roomAndBoard": 13260
+  },
+  "Gallaudet University": {
+    "tuitionInState": 17220,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14294
+  },
+  "Geneva College": {
+    "tuitionInState": 27113,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10317
+  },
+  "George Mason University": {
+    "tuitionInState": 12193,
+    "tuitionOutOfState": 35537,
+    "roomAndBoard": 11326
+  },
+  "George Washington University": {
+    "tuitionInState": 55580,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13585
+  },
+  "Georgetown University": {
+    "tuitionInState": 54392,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16182
+  },
+  "Georgia Institute of Technology": {
+    "tuitionInState": 12915,
+    "tuitionOutOfState": 34335,
+    "roomAndBoard": 11952
+  },
+  "Georgia State University": {
+    "tuitionInState": 11292,
+    "tuitionOutOfState": 30609,
+    "roomAndBoard": 9932
+  },
+  "Gettysburg College": {
+    "tuitionInState": 54746,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13073
+  },
+  "Gonzaga University": {
+    "tuitionInState": 42983,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12012
+  },
+  "Goodwin College": {
+    "tuitionInState": 20798,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 0
+  },
+  "Gordon College": {
+    "tuitionInState": 37400,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11070
+  },
+  "Goucher College": {
+    "tuitionInState": 46959,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14690
+  },
+  "Grace College": {
+    "tuitionInState": 23525,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 6945
+  },
+  "Green Mountain College": {
+    "tuitionInState": 38482,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12191
+  },
+  "Grove City College": {
+    "tuitionInState": 17944,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9776
+  },
+  "Hamilton College": {
+    "tuitionInState": 54881,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13936
+  },
+  "Hampshire College": {
+    "tuitionInState": 53672,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14150
+  },
+  "Hampton University": {
+    "tuitionInState": 26460,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11667
+  },
+  "Hartwick College": {
+    "tuitionInState": 45899,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9457
+  },
+  "Harvard University": {
+    "tuitionInState": 50907,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 17326
+  },
+  "Haverford College": {
+    "tuitionInState": 55176,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16596
+  },
+  "Hellenic College": {
+    "tuitionInState": 23286,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16840
+  },
+  "High Point University": {
+    "tuitionInState": 35365,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13884
+  },
+  "Hobart and William Smith Colleges": {
+    "tuitionInState": 55666,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14066
+  },
+  "Hofstra University": {
+    "tuitionInState": 49254,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14310
+  },
+  "Hood College": {
+    "tuitionInState": 39478,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13083
+  },
+  "Houghton College": {
+    "tuitionInState": 32802,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9379
+  },
+  "Howard University": {
+    "tuitionInState": 27675,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14242
+  },
+  "Husson University": {
+    "tuitionInState": 18263,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9878
+  },
+  "Indiana University Pennsylvania": {
+    "tuitionInState": 12632,
+    "tuitionOutOfState": 24185,
+    "roomAndBoard": 12405
+  },
+  "Indiana University-Bloomington": {
+    "tuitionInState": 10955,
+    "tuitionOutOfState": 36240,
+    "roomAndBoard": 10668
+  },
+  "Iona College": {
+    "tuitionInState": 39189,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15425
+  },
+  "Ithaca College": {
+    "tuitionInState": 44599,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15885
+  },
+  "Jacksonville University": {
+    "tuitionInState": 36670,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14248
+  },
+  "James Madison University": {
+    "tuitionInState": 11313,
+    "tuitionOutOfState": 28369,
+    "roomAndBoard": 10294
+  },
+  "John Brown University": {
+    "tuitionInState": 27190,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9402
+  },
+  "Johns Hopkins University": {
+    "tuitionInState": 54257,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16403
+  },
+  "Johnson & Wales University, Denver": {
+    "tuitionInState": 32404,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13016
+  },
+  "Johnson & Wales University, Providence": {
+    "tuitionInState": 32404,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13016
+  },
+  "Julliard": {
+    "tuitionInState": 44897,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15995
+  },
+  "Juniata College": {
+    "tuitionInState": 45630,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12522
+  },
+  "Kalamazoo College": {
+    "tuitionInState": 48560,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9766
+  },
+  "Kansas State University, Manhattan": {
+    "tuitionInState": 9898,
+    "tuitionOutOfState": 24781,
+    "roomAndBoard": 9807
+  },
+  "Keene State College": {
+    "tuitionInState": 14423,
+    "tuitionOutOfState": 23519,
+    "roomAndBoard": 11165
+  },
+  "Kent State University": {
+    "tuitionInState": 0,
+    "tuitionOutOfState": 19286,
+    "roomAndBoard": 11353
+  },
+  "Kenyon College": {
+    "tuitionInState": 55702,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12771
+  },
+  "Keuka College": {
+    "tuitionInState": 32184,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11910
+  },
+  "Knox College": {
+    "tuitionInState": 46756,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10084
+  },
+  "La Salle University": {
+    "tuitionInState": 30784,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16132
+  },
+  "Lafayette College": {
+    "tuitionInState": 52884,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15642
+  },
+  "Lake Forest College": {
+    "tuitionInState": 47370,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10454
+  },
+  "Lasell College": {
+    "tuitionInState": 35984,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15392
+  },
+  "Lebanon Valley College": {
+    "tuitionInState": 43867,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11918
+  },
+  "Lehigh University": {
+    "tuitionInState": 52541,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13645
+  },
+  "LeMoyne College": {
+    "tuitionInState": 35261,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13936
+  },
+  "Lesley University": {
+    "tuitionInState": 27695,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16380
+  },
+  "LeTourneau University": {
+    "tuitionInState": 30493,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10265
+  },
+  "Lewis & Clark College": {
+    "tuitionInState": 50948,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12580
+  },
+  "Liberty University": {
+    "tuitionInState": 24910,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9280
+  },
+  "Long Island University, Brooklyn Campus": {
+    "tuitionInState": 40942,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14269
+  },
+  "Long Island University, Brookville (LIU Post)": {
+    "tuitionInState": 38354,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9412
+  },
+  "Loyola Marymount University, Los Angeles": {
+    "tuitionInState": 47894,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14825
+  },
+  "Loyola University, Chicago": {
+    "tuitionInState": 44296,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15340
+  },
+  "Loyola University, Maryland": {
+    "tuitionInState": 49462,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16266
+  },
+  "Loyola University, New Orleans": {
+    "tuitionInState": 41072,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13173
+  },
+  "Lynchburg College": {
+    "tuitionInState": 38189,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10691
+  },
+  "Macalester College": {
+    "tuitionInState": 54563,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12139
+  },
+  "Maine College of Art": {
+    "tuitionInState": 35360,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12366
+  },
+  "Maine Maritime Academy": {
+    "tuitionInState": 13809,
+    "tuitionOutOfState": 27693,
+    "roomAndBoard": 10514
+  },
+  "Manhattan College": {
+    "tuitionInState": 43068,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16224
+  },
+  "Manhattanville College": {
+    "tuitionInState": 39426,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15101
+  },
+  "Marietta College": {
+    "tuitionInState": 37482,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11773
+  },
+  "Marist College": {
+    "tuitionInState": 38251,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15704
+  },
+  "Marlboro College": {
+    "tuitionInState": 42042,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12407
+  },
+  "Marquette University": {
+    "tuitionInState": 41496,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12366
+  },
+  "Maryland Institute College of Art": {
+    "tuitionInState": 47102,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 8954
+  },
+  "Marymount Manhattan College": {
+    "tuitionInState": 33228,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 17056
+  },
+  "Marymount University": {
+    "tuitionInState": 31643,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12709
+  },
+  "Marywood University": {
+    "tuitionInState": 34518,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14141
+  },
+  "Mass College of Pharmacy & HS": {
+    "tuitionInState": 33894,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 17081
+  },
+  "Massachusetts College of Art and Design": {
+    "tuitionInState": 13208,
+    "tuitionOutOfState": 35776,
+    "roomAndBoard": 14040
+  },
+  "Massachusetts College of Liberal Arts": {
+    "tuitionInState": 10478,
+    "tuitionOutOfState": 19781,
+    "roomAndBoard": 11033
+  },
+  "Massachusetts Institute of Technology": {
+    "tuitionInState": 51888,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15309
+  },
+  "Massachusetts Maritime Academy": {
+    "tuitionInState": 8715,
+    "tuitionOutOfState": 19906,
+    "roomAndBoard": 12798
+  },
+  "Mercyhurst University": {
+    "tuitionInState": 37773,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13125
+  },
+  "Merrimack College": {
+    "tuitionInState": 41760,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15845
+  },
+  "Messiah College": {
+    "tuitionInState": 35526,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10629
+  },
+  "Methodist University": {
+    "tuitionInState": 34403,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13265
+  },
+  "Miami University": {
+    "tuitionInState": 15572,
+    "tuitionOutOfState": 35595,
+    "roomAndBoard": 13730
+  },
+  "Michigan State University": {
+    "tuitionInState": 15097,
+    "tuitionOutOfState": 41039,
+    "roomAndBoard": 10427
+  },
+  "Middlebury College": {
+    "tuitionInState": 54596,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15567
+  },
+  "Midwestern State University": {
+    "tuitionInState": 0,
+    "tuitionOutOfState": 11432,
+    "roomAndBoard": 8877
+  },
+  "Mills College": {
+    "tuitionInState": 31467,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13986
+  },
+  "Misericordia University": {
+    "tuitionInState": 32926,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14092
+  },
+  "Mississippi State University": {
+    "tuitionInState": 8651,
+    "tuitionOutOfState": 23252,
+    "roomAndBoard": 9999
+  },
+  "Mitchell College": {
+    "tuitionInState": 33740,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13260
+  },
+  "Molloy�College": {
+    "tuitionInState": 31075,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13980
+  },
+  "Monmouth University": {
+    "tuitionInState": 38201,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15756
+  },
+  "Monroe College": {
+    "tuitionInState": 15575,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10535
+  },
+  "Montserrat College of Art": {
+    "tuitionInState": 33280,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9880
+  },
+  "Morehouse College": {
+    "tuitionInState": 27574,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13438
+  },
+  "Morrisville State College": {
+    "tuitionInState": 8641,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13768
+  },
+  "Mount Holyoke College": {
+    "tuitionInState": 49998,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14660
+  },
+  "Mount Ida College": {
+    "tuitionInState": 37149,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14227
+  },
+  "Muhlenberg College": {
+    "tuitionInState": 52863,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11752
+  },
+  "National Technical Institute for the Deaf - RIT": {
+    "tuitionInState": 16944,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13173
+  },
+  "Nazareth College of Rochester": {
+    "tuitionInState": 34657,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13946
+  },
+  "New England College": {
+    "tuitionInState": 38432,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14429
+  },
+  "New England Conservatory of Music": {
+    "tuitionInState": 49369,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16328
+  },
+  "New England Institute of Technology": {
+    "tuitionInState": 28080,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 17555
+  },
+  "New England School of Communications": {
+    "tuitionInState": 18263,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9878
+  },
+  "New Hampshire Institute of Art": {
+    "tuitionInState": 27955,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11606
+  },
+  "New York University": {
+    "tuitionInState": 51828,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 18156
+  },
+  "Newbury College": {
+    "tuitionInState": 35849,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15080
+  },
+  "Niagara University": {
+    "tuitionInState": 33228,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13468
+  },
+  "Nichols College": {
+    "tuitionInState": 35360,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14352
+  },
+  "Norfolk State University": {
+    "tuitionInState": 9397,
+    "tuitionOutOfState": 22088,
+    "roomAndBoard": 10358
+  },
+  "North Carolina State University": {
+    "tuitionInState": 9420,
+    "tuitionOutOfState": 28502,
+    "roomAndBoard": 11288
+  },
+  "Northeastern University": {
+    "tuitionInState": 51412,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15880
+  },
+  "Northern Arizona University": {
+    "tuitionInState": 11501,
+    "tuitionOutOfState": 25835,
+    "roomAndBoard": 10342
+  },
+  "Northern Vermont University, Johnson": {
+    "tuitionInState": 12074,
+    "tuitionOutOfState": 25394,
+    "roomAndBoard": 10598
+  },
+  "Northern Vermont University, Lyndon": {
+    "tuitionInState": 12074,
+    "tuitionOutOfState": 25394,
+    "roomAndBoard": 10598
+  },
+  "Northpoint Bible College": {
+    "tuitionInState": 12536,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9225
+  },
+  "Northwestern University": {
+    "tuitionInState": 54785,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16689
+  },
+  "Norwich University": {
+    "tuitionInState": 40205,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13907
+  },
+  "Nova Southeastern University": {
+    "tuitionInState": 31075,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10639
+  },
+  "Nyack College": {
+    "tuitionInState": 25500,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9450
+  },
+  "Oakwood University": {
+    "tuitionInState": 18085,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10071
+  },
+  "Oberlin College": {
+    "tuitionInState": 55650,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16496
+  },
+  "Ohio Northern University": {
+    "tuitionInState": 32230,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11721
+  },
+  "Ohio State University": {
+    "tuitionInState": 11015,
+    "tuitionOutOfState": 30883,
+    "roomAndBoard": 12742
+  },
+  "Ohio University": {
+    "tuitionInState": 12372,
+    "tuitionOutOfState": 22214,
+    "roomAndBoard": 13116
+  },
+  "Ohio Wesleyan University": {
+    "tuitionInState": 46478,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12428
+  },
+  "Oxford College of Emory University": {
+    "tuitionInState": 50442,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13044
+  },
+  "Pace University": {
+    "tuitionInState": 45745,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 19282
+  },
+  "Palm Beach Atlantic University": {
+    "tuitionInState": 30690,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10046
+  },
+  "Patrick Henry College": {
+    "tuitionInState": 29039,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11157
+  },
+  "Paul Smith's College": {
+    "tuitionInState": 28452,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12240
+  },
+  "Pennsylvania State University, University Park": {
+    "tuitionInState": 18113,
+    "tuitionOutOfState": 33950,
+    "roomAndBoard": 11731
+  },
+  "Pepperdine University": {
+    "tuitionInState": 54072,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15465
+  },
+  "Pine Manor College": {
+    "tuitionInState": 32406,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13967
+  },
+  "Pitzer College": {
+    "tuitionInState": 54325,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16915
+  },
+  "Plymouth State University": {
+    "tuitionInState": 14321,
+    "tuitionOutOfState": 23119,
+    "roomAndBoard": 10369
+  },
+  "Point Park University": {
+    "tuitionInState": 31335,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12438
+  },
+  "Pratt Institute": {
+    "tuitionInState": 52040,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12501
+  },
+  "Prescott College": {
+    "tuitionInState": 31783,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9695
+  },
+  "Princeton University": {
+    "tuitionInState": 49910,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16234
+  },
+  "Providence College": {
+    "tuitionInState": 50528,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14700
+  },
+  "Purdue University, West Lafayette": {
+    "tuitionInState": 10402,
+    "tuitionOutOfState": 29956,
+    "roomAndBoard": 10431
+  },
+  "Quinnipiac University": {
+    "tuitionInState": 47960,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14540
+  },
+  "Ramapo College of New Jersey": {
+    "tuitionInState": 14643,
+    "tuitionOutOfState": 24143,
+    "roomAndBoard": 12147
+  },
+  "Randolph-Macon College": {
+    "tuitionInState": 41600,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12449
+  },
+  "Reed College": {
+    "tuitionInState": 56368,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14217
+  },
+  "Regis College": {
+    "tuitionInState": 41413,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15330
+  },
+  "Rensselaer Polytechnic Institute": {
+    "tuitionInState": 54397,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15558
+  },
+  "Rhode Island College": {
+    "tuitionInState": 9127,
+    "tuitionOutOfState": 22141,
+    "roomAndBoard": 11788
+  },
+  "Rhode Island School of Design": {
+    "tuitionInState": 50409,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13572
+  },
+  "Rider University": {
+    "tuitionInState": 42962,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15288
+  },
+  "Rivier University": {
+    "tuitionInState": 32022,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13613
+  },
+  "Roanoke College": {
+    "tuitionInState": 44402,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13788
+  },
+  "Robert Morris University, PA": {
+    "tuitionInState": 30545,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11627
+  },
+  "Roberts Wesleyan College": {
+    "tuitionInState": 32173,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10847
+  },
+  "Rochester Institute of Technology": {
+    "tuitionInState": 41671,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13173
+  },
+  "Roger Williams University": {
+    "tuitionInState": 34512,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15854
+  },
+  "Rollins College": {
+    "tuitionInState": 50268,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15319
+  },
+  "Russell Sage College": {
+    "tuitionInState": 29499,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12904
+  },
+  "Rutgers University, Camden": {
+    "tuitionInState": 15081,
+    "tuitionOutOfState": 31121,
+    "roomAndBoard": 13589
+  },
+  "Rutgers University, New Brunswick": {
+    "tuitionInState": 15222,
+    "tuitionOutOfState": 31801,
+    "roomAndBoard": 13501
+  },
+  "Rutgers University, Newark": {
+    "tuitionInState": 15222,
+    "tuitionOutOfState": 31801,
+    "roomAndBoard": 14198
+  },
+  "Sacred Heart University": {
+    "tuitionInState": 41413,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15361
+  },
+  "Saint Anselm College": {
+    "tuitionInState": 41590,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14712
+  },
+  "Saint Joseph's College, ME": {
+    "tuitionInState": 35650,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13680
+  },
+  "Saint Joseph's University, PA": {
+    "tuitionInState": 45448,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15099
+  },
+  "Saint Lawrence University": {
+    "tuitionInState": 55110,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14202
+  },
+  "Saint Louis University": {
+    "tuitionInState": 43853,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11309
+  },
+  "Saint Michael's College": {
+    "tuitionInState": 45375,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12220
+  },
+  "Saint Peter's University": {
+    "tuitionInState": 37858,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15947
+  },
+  "Salem State University": {
+    "tuitionInState": 10689,
+    "tuitionOutOfState": 17374,
+    "roomAndBoard": 12698
+  },
+  "Salve Regina University": {
+    "tuitionInState": 40150,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14500
+  },
+  "Samford University": {
+    "tuitionInState": 31710,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10691
+  },
+  "Santa Clara University": {
+    "tuitionInState": 51852,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15066
+  },
+  "Sarah Lawrence College": {
+    "tuitionInState": 56170,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15881
+  },
+  "Savannah College of Art and Design": {
+    "tuitionInState": 37346,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 17024
+  },
+  "School of the Art Institute of Chicago": {
+    "tuitionInState": 49036,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14040
+  },
+  "School of the Museum of Fine Arts": {
+    "tuitionInState": 56491,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14616
+  },
+  "School of Visual Arts, NYC": {
+    "tuitionInState": 41579,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 20800
+  },
+  "Seattle Pacific University": {
+    "tuitionInState": 42529,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11681
+  },
+  "Seattle University": {
+    "tuitionInState": 44600,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12555
+  },
+  "Seton Hall University": {
+    "tuitionInState": 42212,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15723
+  },
+  "Shenandoah University": {
+    "tuitionInState": 32594,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10587
+  },
+  "Siena College": {
+    "tuitionInState": 37911,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15132
+  },
+  "Sierra Nevada College": {
+    "tuitionInState": 33945,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13275
+  },
+  "Simmons College": {
+    "tuitionInState": 41184,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15392
+  },
+  "Simon's Rock College of Bard": {
+    "tuitionInState": 55555,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15061
+  },
+  "Skidmore College": {
+    "tuitionInState": 54544,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14564
+  },
+  "Smith College": {
+    "tuitionInState": 52046,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 17399
+  },
+  "Southeastern University": {
+    "tuitionInState": 52046,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 17399
+  },
+  "Southern Adventist University": {
+    "tuitionInState": 22412,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 6968
+  },
+  "Southern Connecticut State University": {
+    "tuitionInState": 10958,
+    "tuitionOutOfState": 24155,
+    "roomAndBoard": 12929
+  },
+  "Southern New Hampshire University": {
+    "tuitionInState": 33841,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13936
+  },
+  "Southern Vermont College": {
+    "tuitionInState": 25891,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11440
+  },
+  "Spelman College": {
+    "tuitionInState": 29286,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13999
+  },
+  "Springfield College": {
+    "tuitionInState": 37996,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12730
+  },
+  "St. Bonaventure University": {
+    "tuitionInState": 34633,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12279
+  },
+  "St. Edward's University": {
+    "tuitionInState": 44678,
+    "tuitionOutOfState": 44678,
+    "roomAndBoard": 12375
+  },
+  "St. John's University, New York": {
+    "tuitionInState": 42141,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 17299
+  },
+  "St. Joseph's College Brooklyn": {
+    "tuitionInState": 27612,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15229
+  },
+  "St. Joseph's University, PA": {
+    "tuitionInState": 45635,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15099
+  },
+  "St. Mary's College of Maryland": {
+    "tuitionInState": 15076,
+    "tuitionOutOfState": 31146,
+    "roomAndBoard": 13329
+  },
+  "St. Olaf College": {
+    "tuitionInState": 45947,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10483
+  },
+  "Stanford University": {
+    "tuitionInState": 51602,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15716
+  },
+  "Sterling College": {
+    "tuitionInState": 25984,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 8663
+  },
+  "Stetson University": {
+    "tuitionInState": 46270,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13312
+  },
+  "Stevens Institute of Technology": {
+    "tuitionInState": 52754,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15371
+  },
+  "Stonehill College": {
+    "tuitionInState": 42952,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16286
+  },
+  "Suffolk University": {
+    "tuitionInState": 38806,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15882
+  },
+  "SUNY Albany": {
+    "tuitionInState": 9870,
+    "tuitionOutOfState": 25345,
+    "roomAndBoard": 14003
+  },
+  0: {
+    "tuitionInState": 0,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 0
+  },
+  "SUNY Cobleskill": {
+    "tuitionInState": 8465,
+    "tuitionOutOfState": 18501,
+    "roomAndBoard": 13709
+  },
+  "SUNY ESF": {
+    "tuitionInState": 8885,
+    "tuitionOutOfState": 18921,
+    "roomAndBoard": 17108
+  },
+  "SUNY, Plattsburgh": {
+    "tuitionInState": 8474,
+    "tuitionOutOfState": 18510,
+    "roomAndBoard": 13104
+  },
+  "SUNY, Potsdam": {
+    "tuitionInState": 8549,
+    "tuitionOutOfState": 18585,
+    "roomAndBoard": 13296
+  },
+  "SUNY, Stony Brook": {
+    "tuitionInState": 9628,
+    "tuitionOutOfState": 27839,
+    "roomAndBoard": 13984
+  },
+  "Susquehanna University": {
+    "tuitionInState": 47289,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12574
+  },
+  "Swarthmore College": {
+    "tuitionInState": 52855,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15550
+  },
+  "Sweet Briar College": {
+    "tuitionInState": 21000,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13000
+  },
+  "Syracuse University": {
+    "tuitionInState": 48625,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16180
+  },
+  "Taylor University": {
+    "tuitionInState": 34200,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9615
+  },
+  "Temple University": {
+    "tuitionInState": 17324,
+    "tuitionOutOfState": 29555,
+    "roomAndBoard": 15681
+  },
+  "The King's College": {
+    "tuitionInState": 36816,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14000
+  },
+  "The New School": {
+    "tuitionInState": 47050,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 18287
+  },
+  "The University of the Arts": {
+    "tuitionInState": 46450,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16338
+  },
+  "Thomas College": {
+    "tuitionInState": 27560,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10962
+  },
+  "Tisch School of the Arts": {
+    "tuitionInState": 57641,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 18371
+  },
+  "Touro College, NY": {
+    "tuitionInState": 20769,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 18371
+  },
+  "Towson University": {
+    "tuitionInState": 10082,
+    "tuitionOutOfState": 23026,
+    "roomAndBoard": 12671
+  },
+  "Trinity College": {
+    "tuitionInState": 56961,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14768
+  },
+  "Tufts University": {
+    "tuitionInState": 56491,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14616
+  },
+  "Tulane University": {
+    "tuitionInState": 55078,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15117
+  },
+  "Tuskegee University": {
+    "tuitionInState": 22308,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10036
+  },
+  "Union College": {
+    "tuitionInState": 55294,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13565
+  },
+  "Unity College": {
+    "tuitionInState": 29484,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10816
+  },
+  "University at Buffalo": {
+    "tuitionInState": 0,
+    "tuitionOutOfState": 28150,
+    "roomAndBoard": 12976
+  },
+  "University of Alabama": {
+    "tuitionInState": 12043,
+    "tuitionOutOfState": 30056,
+    "roomAndBoard": 13753
+  },
+  "University of Arizona": {
+    "tuitionInState": 0,
+    "tuitionOutOfState": 35700,
+    "roomAndBoard": 12550
+  },
+  "University of Bridgeport": {
+    "tuitionInState": 31356,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16536
+  },
+  "University of California, Davis": {
+    "tuitionInState": 14957,
+    "tuitionOutOfState": 44092,
+    "roomAndBoard": 16781
+  },
+  "University of California, Los Angeles": {
+    "tuitionInState": 13790,
+    "tuitionOutOfState": 42925,
+    "roomAndBoard": 15749
+  },
+  "University of California, San Diego": {
+    "tuitionInState": 14612,
+    "tuitionOutOfState": 43747,
+    "roomAndBoard": 13839
+  },
+  "University of California, Santa Barbara": {
+    "tuitionInState": 14985,
+    "tuitionOutOfState": 44120,
+    "roomAndBoard": 15369
+  },
+  "University of Central Florida": {
+    "tuitionInState": 6192,
+    "tuitionOutOfState": 21817,
+    "roomAndBoard": 10155
+  },
+  "University of Chicago": {
+    "tuitionInState": 57018,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16355
+  },
+  "University of Cincinati": {
+    "tuitionInState": 11440,
+    "tuitionOutOfState": 28948,
+    "roomAndBoard": 11859
+  },
+  "University of Colorado, Boulder": {
+    "tuitionInState": 12569,
+    "tuitionOutOfState": 37669,
+    "roomAndBoard": 14558
+  },
+  "University of Connecticut": {
+    "tuitionInState": 15434,
+    "tuitionOutOfState": 38384,
+    "roomAndBoard": 13015
+  },
+  "University of Connecticut Avery Point": {
+    "tuitionInState": 13688,
+    "tuitionOutOfState": 36056,
+    "roomAndBoard": 10348
+  },
+  "University of Connecticut Stamford": {
+    "tuitionInState": 13352,
+    "tuitionOutOfState": 36302,
+    "roomAndBoard": 10348
+  },
+  "University of Delaware": {
+    "tuitionInState": 12345,
+    "tuitionOutOfState": 33134,
+    "roomAndBoard": 12825
+  },
+  "University of Denver": {
+    "tuitionInState": 50616,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13116
+  },
+  "University of Dubuque": {
+    "tuitionInState": 30898,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 9828
+  },
+  "University of Findlay": {
+    "tuitionInState": 34653,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10109
+  },
+  "University of Florida": {
+    "tuitionInState": 6635,
+    "tuitionOutOfState": 29804,
+    "roomAndBoard": 10306
+  },
+  "University of Georgia": {
+    "tuitionInState": 12291,
+    "tuitionOutOfState": 31608,
+    "roomAndBoard": 10462
+  },
+  "University of Hartford": {
+    "tuitionInState": 40466,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12840
+  },
+  "University of Iowa": {
+    "tuitionInState": 9558,
+    "tuitionOutOfState": 32067,
+    "roomAndBoard": 10868
+  },
+  "University of Kentucky": {
+    "tuitionInState": 13842,
+    "tuitionOutOfState": 28482,
+    "roomAndBoard": 13178
+  },
+  "University of Louisville": {
+    "tuitionInState": 11511,
+    "tuitionOutOfState": 27134,
+    "roomAndBoard": 8765
+  },
+  "University of Maine at Farmington": {
+    "tuitionInState": 9836,
+    "tuitionOutOfState": 19787,
+    "roomAndBoard": 9707
+  },
+  "University of Maine at Fort Kent": {
+    "tuitionInState": 8284,
+    "tuitionOutOfState": 12558,
+    "roomAndBoard": 8226
+  },
+  "University of Maine at Machias": {
+    "tuitionInState": 7987,
+    "tuitionOutOfState": 20093,
+    "roomAndBoard": 8825
+  },
+  "University of Maine, Orono": {
+    "tuitionInState": 11338,
+    "tuitionOutOfState": 31493,
+    "roomAndBoard": 10541
+  },
+  "University of Maine, Presque Isle": {
+    "tuitionInState": 8200,
+    "tuitionOutOfState": 12475,
+    "roomAndBoard": 8595
+  },
+  "University of Mary Washington": {
+    "tuitionInState": 12613,
+    "tuitionOutOfState": 28469,
+    "roomAndBoard": 11347
+  },
+  "University of Maryland, Baltimore County": {
+    "tuitionInState": 11979,
+    "tuitionOutOfState": 26680,
+    "roomAndBoard": 12309
+  },
+  "University of Maryland, College Park": {
+    "tuitionInState": 10814,
+    "tuitionOutOfState": 34950,
+    "roomAndBoard": 12484
+  },
+  "University of Massachusetts, Amherst": {
+    "tuitionInState": 16027,
+    "tuitionOutOfState": 34816,
+    "roomAndBoard": 12748
+  },
+  "University of Massachusetts, Boston": {
+    "tuitionInState": 14381,
+    "tuitionOutOfState": 34303,
+    "roomAndBoard": 14093
+  },
+  "University of Massachusetts, Dartmouth": {
+    "tuitionInState": 14114,
+    "tuitionOutOfState": 29416,
+    "roomAndBoard": 13453
+  },
+  "University of Massachusetts, Lowell": {
+    "tuitionInState": 15392,
+    "tuitionOutOfState": 33140,
+    "roomAndBoard": 12996
+  },
+  "University of Miami": {
+    "tuitionInState": 50423,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14213
+  },
+  "University of Michigan, Ann Arbor": {
+    "tuitionInState": 17364,
+    "tuitionOutOfState": 52840,
+    "roomAndBoard": 11646
+  },
+  "University of Mississippi": {
+    "tuitionInState": 8622,
+    "tuitionOutOfState": 24496,
+    "roomAndBoard": 10922
+  },
+  "University of New England": {
+    "tuitionInState": 37320,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13990
+  },
+  "University of New Hampshire": {
+    "tuitionInState": 18790,
+    "tuitionOutOfState": 33942,
+    "roomAndBoard": 11717
+  },
+  "University of New Hampshire, Manchester": {
+    "tuitionInState": 15444,
+    "tuitionOutOfState": 30597,
+    "roomAndBoard": 11324
+  },
+  "University of New Haven": {
+    "tuitionInState": 39697,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16234
+  },
+  "University of New Mexico": {
+    "tuitionInState": 7354,
+    "tuitionOutOfState": 22918,
+    "roomAndBoard": 9864
+  },
+  "University of North Carolina, Chapel Hill": {
+    "tuitionInState": 9254,
+    "tuitionOutOfState": 35972,
+    "roomAndBoard": 12018
+  },
+  "University of North Carolina, Greensboro": {
+    "tuitionInState": 7540,
+    "tuitionOutOfState": 23305,
+    "roomAndBoard": 8864
+  },
+  "University of North Carolina, Wilmington": {
+    "tuitionInState": 7330,
+    "tuitionOutOfState": 21907,
+    "roomAndBoard": 10910
+  },
+  "University of Notre Dame": {
+    "tuitionInState": 53565,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15486
+  },
+  "University of Oregon": {
+    "tuitionInState": 12034,
+    "tuitionOutOfState": 35995,
+    "roomAndBoard": 11908
+  },
+  "University of Pennsylvania": {
+    "tuitionInState": 55675,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15669
+  },
+  "University of Pittsburgh": {
+    "tuitionInState": 19843,
+    "tuitionOutOfState": 31868,
+    "roomAndBoard": 12045
+  },
+  "University of Redlands": {
+    "tuitionInState": 49995,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14416
+  },
+  "University of Rhode Island, Kingston": {
+    "tuitionInState": 14344,
+    "tuitionOutOfState": 31244,
+    "roomAndBoard": 12950
+  },
+  "University of Richmond": {
+    "tuitionInState": 52946,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12293
+  },
+  "University of Rochester": {
+    "tuitionInState": 54065,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15952
+  },
+  "University of Saint Joseph, CT": {
+    "tuitionInState": 39113,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11428
+  },
+  "University of Saint Thomas, MN": {
+    "tuitionInState": 42778,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10758
+  },
+  "University of San Diego": {
+    "tuitionInState": 49616,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13135
+  },
+  "University of San Francisco": {
+    "tuitionInState": 48100,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14903
+  },
+  "University of Scranton": {
+    "tuitionInState": 44626,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15714
+  },
+  "University of South Carolina, Columbia": {
+    "tuitionInState": 12686,
+    "tuitionOutOfState": 33496,
+    "roomAndBoard": 11648
+  },
+  "University of Southern California": {
+    "tuitionInState": 56496,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15481
+  },
+  "University of Southern Maine": {
+    "tuitionInState": 9589,
+    "tuitionOutOfState": 22911,
+    "roomAndBoard": 9568
+  },
+  "University of Tampa": {
+    "tuitionInState": 29563,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10922
+  },
+  "University of Texas, Arlington": {
+    "tuitionInState": 10350,
+    "tuitionOutOfState": 25378,
+    "roomAndBoard": 9281
+  },
+  "University of Texas, Austin": {
+    "tuitionInState": 10311,
+    "tuitionOutOfState": 36702,
+    "roomAndBoard": 10473
+  },
+  "University of Utah": {
+    "tuitionInState": 8274,
+    "tuitionOutOfState": 26206,
+    "roomAndBoard": 10989
+  },
+  "University of Valley Forge": {
+    "tuitionInState": 21705,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 8954
+  },
+  "University of Vermont": {
+    "tuitionInState": 18450,
+    "tuitionOutOfState": 43010,
+    "roomAndBoard": 12534
+  },
+  "University of Virginia": {
+    "tuitionInState": 16719,
+    "tuitionOutOfState": 48468,
+    "roomAndBoard": 11669
+  },
+  "University of Washington": {
+    "tuitionInState": 11151,
+    "tuitionOutOfState": 36697,
+    "roomAndBoard": 12602
+  },
+  "University of Wisconsin, Madison": {
+    "tuitionInState": 10955,
+    "tuitionOutOfState": 36174,
+    "roomAndBoard": 11276
+  },
+  "Ursinus College": {
+    "tuitionInState": 52374,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13062
+  },
+  "Utica College": {
+    "tuitionInState": 21504,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11261
+  },
+  "Vanderbilt University": {
+    "tuitionInState": 49571,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16207
+  },
+  "Vassar College": {
+    "tuitionInState": 57418,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13416
+  },
+  "Vermont Technical College": {
+    "tuitionInState": 15683,
+    "tuitionOutOfState": 28488,
+    "roomAndBoard": 10702
+  },
+  "Villanova University": {
+    "tuitionInState": 53335,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15065
+  },
+  "Virginia Commonwealth University": {
+    "tuitionInState": 14231,
+    "tuitionOutOfState": 35065,
+    "roomAndBoard": 10594
+  },
+  "Virginia Military Institute": {
+    "tuitionInState": 14273,
+    "tuitionOutOfState": 40988,
+    "roomAndBoard": 9605
+  },
+  "Virginia Polytechnic Institute": {
+    "tuitionInState": 13759,
+    "tuitionOutOfState": 32255,
+    "roomAndBoard": 9038
+  },
+  "Wagner College": {
+    "tuitionInState": 46592,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14196
+  },
+  "Wake Forest University": {
+    "tuitionInState": 53322,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14394
+  },
+  "Warner University": {
+    "tuitionInState": 21545,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 8682
+  },
+  "Warren Wilson College": {
+    "tuitionInState": 36654,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11086
+  },
+  "Washington & Jefferson College": {
+    "tuitionInState": 47890,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13884
+  },
+  "Washington College": {
+    "tuitionInState": 45895,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11482
+  },
+  "Washington State University": {
+    "tuitionInState": 11585,
+    "tuitionOutOfState": 26802,
+    "roomAndBoard": 11185
+  },
+  "Waynesburg University": {
+    "tuitionInState": 24970,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10213
+  },
+  "Wellesley College": {
+    "tuitionInState": 53732,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16468
+  },
+  "Wells College": {
+    "tuitionInState": 41184,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14279
+  },
+  "Wentworth Institute of Technology": {
+    "tuitionInState": 33950,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14190
+  },
+  "Wesleyan University": {
+    "tuitionInState": 54573,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16064
+  },
+  "West Chester University": {
+    "tuitionInState": 5257,
+    "tuitionOutOfState": 11227,
+    "roomAndBoard": 10496
+  },
+  "West Virginia University": {
+    "tuitionInState": 10411,
+    "tuitionOutOfState": 24324,
+    "roomAndBoard": 12507
+  },
+  "Western Connecticut State University": {
+    "tuitionInState": 10876,
+    "tuitionOutOfState": 24073,
+    "roomAndBoard": 13853
+  },
+  "Western New England University": {
+    "tuitionInState": 37170,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13980
+  },
+  "Westfield State University": {
+    "tuitionInState": 10104,
+    "tuitionOutOfState": 16427,
+    "roomAndBoard": 10922
+  },
+  "Westminster College (PA)": {
+    "tuitionInState": 19092,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12698
+  },
+  "Westminster College, Salt Lake City": {
+    "tuitionInState": 34362,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10537
+  },
+  "Wheaton College, Illinois": {
+    "tuitionInState": 36598,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 10660
+  },
+  "Wheaton College, Norton": {
+    "tuitionInState": 52884,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13487
+  },
+  "Wheelock College": {
+    "tuitionInState": 37804,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15574
+  },
+  "Whitman College": {
+    "tuitionInState": 51771,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 13025
+  },
+  "Whittier College": {
+    "tuitionInState": 48173,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14258
+  },
+  "Widener University": {
+    "tuitionInState": 45933,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 15452
+  },
+  "Wilkes University": {
+    "tuitionInState": 36292,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14177
+  },
+  "Williams College": {
+    "tuitionInState": 55692,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14716
+  },
+  "Wingate University": {
+    "tuitionInState": 32365,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11211
+  },
+  "Winston-Salem State University": {
+    "tuitionInState": 8862,
+    "tuitionOutOfState": 19346,
+    "roomAndBoard": 10041
+  },
+  "Winthrop University": {
+    "tuitionInState": 15465,
+    "tuitionOutOfState": 29937,
+    "roomAndBoard": 9262
+  },
+  "Wofford College": {
+    "tuitionInState": 43633,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12626
+  },
+  "Worcester Polytechnic Institute": {
+    "tuitionInState": 50518,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 14716
+  },
+  "Worcester State University": {
+    "tuitionInState": 9913,
+    "tuitionOutOfState": 16236,
+    "roomAndBoard": 12651
+  },
+  "Xavier University of Louisiana": {
+    "tuitionInState": 23173,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 5137
+  },
+  "Xavier University, Ohio": {
+    "tuitionInState": 38839,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 12636
+  },
+  "Yale University": {
+    "tuitionInState": 53456,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 16120
+  },
+  "York College of Pennsylvania": {
+    "tuitionInState": 20207,
+    "tuitionOutOfState": 0,
+    "roomAndBoard": 11263
+  }
+}

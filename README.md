@@ -15,11 +15,11 @@ functionality will be added if time allows.
     
 ## Enhancements
 
- - [ ] Refactor routes from index.js to routes directory using Express Router
+ - [X] Refactor routes from index.js to routes directory using Express Router
  - [ ] Postman Test suite
- - [ ] Error handling middleware
+ - [X] Error handling middleware
  - [ ] Stub out CRUD operations on colleges route
- - [ ] Convert routes Async / Await
+ - [X] Convert routes ~~Async / Await~~ Promise Router
  - [ ] Bootstrap data into a MongoDB instance
  - [ ] Fetch data from MongoDB rather than the file system
   

@@ -12,9 +12,6 @@ const dbConnection = mongoose.connection;
 dbConnection.on('error', console.error.bind(console, 'connection error:'));
 dbConnection.once('open', function() {
     console.log('Database Connected: ', mongoUri);
-    console.log(dbConnection.db.listCollections().toArray(function (err, names) {
-        console.log(names);
-    }));
 });
 
 const v1Routes = require('./routes/v1/v1.routes');
